@@ -2,6 +2,6 @@
 
 ## Lecture 3
 ---
- - files
+ - file executions
  - try, except, finally, else
  - NumPy
