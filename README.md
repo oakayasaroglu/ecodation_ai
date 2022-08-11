@@ -1,2 +1,7 @@
-# ecodation_ai
-Ecodation AI course files.
+# Ecodation AI course files.
+
+## Lecture 3
+---
+ - files
+ - try, except, finally, else
+ - NumPy
